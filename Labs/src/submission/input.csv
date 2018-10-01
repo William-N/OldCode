@@ -1,0 +1,23 @@
+Harper,buy,800,UTX
+Harper,sell,600,UTX
+Harper,sell,200,UTX
+Alice,buy,1100,PG
+Alice,buy,300,TRV
+Alice,buy,800,NKE
+Alice,sell,100,TRV
+Alice,sell,100,TRV
+Maryam ,buy,2000,KO
+Alice,sell,300,PG
+Harper,buy,1900,MSFT
+Alice,buy,100,DWDP
+Alice,buy,200,UTX
+Harper,buy,1700,KO
+Alice,sell,600,NKE
+Maryam ,buy,2000,JNJ
+Alice,sell,200,PG
+Harper,sell,900,KO
+Alice,sell,100,TRV
+Maryam ,sell,1600,KO
+Maryam ,sell,300,KO
+Harper,buy,1300,TRV
+Maryam ,buy,100,WMT
